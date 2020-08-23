@@ -4,10 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace z7_winforms2
+namespace P_IV_LAB7_V2
 {
     static class Program
     {
+        /// <summary>
+        /// Główny punkt wejścia dla aplikacji.
+        /// </summary>
         [STAThread]
         static void Main()
         {
